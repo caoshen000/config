@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/caoshen/xen-vmi/VMI-Process-Real-Detail-Infor/tool'
+let g:netrw_dirhist_2='/home/caoshen/hikey-source-code/kernel-from-source/linux/kernel/modules_cs'
+let g:netrw_dirhist_3='/mnt/etc'
+let g:netrw_dirhist_4='/etc/init'
+let g:netrw_dirhist_5='/mnt/lib/init'
+let g:netrw_dirhist_6='/home/caoshen/hikey620/docker-arm/grub/arm-trusted-firmware'
+let g:netrw_dirhist_7='/home/caoshen/.opam/4.05.0/lib/findlib'
